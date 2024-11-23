@@ -1,0 +1,1 @@
+Technical information and implementation details
